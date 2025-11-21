@@ -158,11 +158,6 @@
 
 						<div v-if="tabsIndex == 2">
 							<h6 style="font-size: 1.15em" class="label">
-								/>
-							</div>
-							<br />
-
-							<h6 style="font-size: 1.15em" class="label">
 								What percentage of your company do you want to put up?
 							</h6>
 							<div
